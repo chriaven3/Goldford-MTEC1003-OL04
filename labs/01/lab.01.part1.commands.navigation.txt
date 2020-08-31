@@ -52,6 +52,8 @@ Copy and paste the first *two lines* of output below.
 ----------
 
 
+[C:\~]$ ls -a Documents
+usage: list [session|option|hostkey|userkey]
 
 
 
@@ -64,6 +66,8 @@ $ ls doesnotexist
 Copy and paste the output below.
 ----------
 
+[C:\~]$ ls -a Documents
+usage: list [session|option|hostkey|userkey]
 
 
 
