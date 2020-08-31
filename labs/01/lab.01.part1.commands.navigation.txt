@@ -77,7 +77,7 @@ usage: list [session|option|hostkey|userkey]
 5.  What key do I press to go to the previous command?
 ----------
 
-
+Up arrow!
 
 
 
@@ -86,7 +86,8 @@ usage: list [session|option|hostkey|userkey]
 6.  Name two flags that we used in this exercise.
 ----------
 
-
+-a
+-l
 
 
 
@@ -96,7 +97,7 @@ usage: list [session|option|hostkey|userkey]
 ----------
 
 
-
+ls
 
 
 
@@ -104,7 +105,7 @@ usage: list [session|option|hostkey|userkey]
 8.  What's one an argument that we've so far passed to a command?
 ----------
 
-
+Documents
 
 
 
@@ -116,6 +117,10 @@ $ foo<ENTER>
 
 Copy and paste the output below.
 ----------
+
+
+'foo' is not recognized as an internal or external command,
+operable program or batch file.
 
 
 
@@ -132,6 +137,9 @@ Copy and paste the output below.
 
 
 
+'foo' is not recognized as an internal or external command,
+operable program or batch file.
+
 
 
 
@@ -143,7 +151,7 @@ $ ls -a Desktop
 Identify the command, flag, argument, and prompt:
 ----------
 
-
+Glitched
 
 
 
