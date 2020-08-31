@@ -17,8 +17,15 @@ Copy and paste the output of ls below.
 ----------
 
 
+[C:\~]$ ls
+Directory of C:\Users\chris_000\Documents\NetSarang Computer\6\Xshell\Sessions
+
+Name                      Host                  Protocol  User Name  
+------------------------- --------------------- --------- -----------
+homebrew/
 
 
+ 
 
 
 ==========
@@ -30,6 +37,8 @@ Copy and paste the first *two lines* of output below.
 ----------
 
 
+[C:\~]$ ls -1 Documents
+usage: list [session|option|hostkey|userkey]
 
 
 
