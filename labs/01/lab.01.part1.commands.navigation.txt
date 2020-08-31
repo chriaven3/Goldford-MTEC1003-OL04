@@ -151,8 +151,10 @@ $ ls -a Desktop
 Identify the command, flag, argument, and prompt:
 ----------
 
-Glitched
-
+promt = $ 
+flag= -a
+argument= Desktop
+command= ls
 
 
 Lab 1 / Part 2 - Navigating the File System
