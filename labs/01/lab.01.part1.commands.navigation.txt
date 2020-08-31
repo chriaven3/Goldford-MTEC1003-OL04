@@ -211,8 +211,7 @@ Copy and paste the output below.
 ----------
 
 
-
-
+animals
 
 
 ==========
@@ -225,20 +224,20 @@ Copy and paste the output below.
 ----------
 
 
-
+animals food
 
 
 
 ==========
 17. Type:
 
-$ mkdir -p foo/bar/baz/qux
+$ mkdir -p foo/bar/baz/qux     [*note* Family tree command, create children]
 $ ls
 
 Copy and paste the output below.
 ----------
 
-
+animals foo food
 
 
 
@@ -252,7 +251,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+[Folder Directorys?]/mtec1003/foo/bar/baz/qux
 
 
 
@@ -267,7 +266,7 @@ Copy and paste the output below.
 ----------
 
 
-
+[Folder Directorys?]/mtec1003/foo/bar
 
 
 
